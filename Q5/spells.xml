@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spells>
+	<!-- Attack Spells -->
+	<instant group="attack" spellid="179" name="Raging Storm" words="frigo" level="1" mana="100" premium="1" needweapon="1" cooldown="8000" groupcooldown="2000" needlearn="0" script="attack/raging_storm.lua">
+		<vocation name="Sorcerer" />
+	</instant>
+</spells>
